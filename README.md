@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @greglef95
-- 👀 I’m currently Chief Executive @gipcode.gr
-- 🌱 I’m currently learning Ancular
+- Greg Lefkelis
+- @greglef95
+-- Chief Executive @gipcode.gr
